@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artemkryukov&show_icons=true&locale=en&layout=compact" alt="artemkryukov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artemkryukov&show_icons=true&locale=en" alt="artemkryukov" /></p>
+<p>&nbsp;<img align="ritgh" src="https://github-readme-stats.vercel.app/api?username=artemkryukov&show_icons=true&locale=en" alt="artemkryukov" /></p>
 
 
 
