@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **kryukoovartem@outlook.com**
 
+- 💪 I like to write code
+
+- 🥅 I am constantly learning new things
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
